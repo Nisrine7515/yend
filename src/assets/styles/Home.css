@@ -91,3 +91,58 @@ a:hover {
   transform: scale(1.05);
   text-shadow: 0 0 8px rgba(200, 255, 255, 0.6);
 }
+
+/* ========================= */
+/* 📱 RESPONSIVE MOBILE HOME */
+/* ========================= */
+@media (max-width: 768px) {
+  .container {
+    min-height: 100vh;
+    padding: 20px;
+  }
+
+  .title {
+    font-size: 32px;
+    text-align: center;
+  }
+
+  .subtitle {
+    font-size: 20px;
+    margin-left: 0;
+    display: block;
+    text-align: center;
+  }
+
+  .top-left,
+  .top-right,
+  .bottom-left,
+  .bottom-right {
+    position: static;
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    margin-bottom: 15px;
+    font-size: 18px;
+    flex-wrap: wrap;
+  }
+
+  a {
+    font-size: 16px;
+    padding: 8px 14px;
+  }
+}
+
+@media (max-width: 480px) {
+  .title {
+    font-size: 26px;
+  }
+
+  .subtitle {
+    font-size: 18px;
+  }
+
+  a {
+    font-size: 14px;
+    padding: 6px 10px;
+  }
+}
