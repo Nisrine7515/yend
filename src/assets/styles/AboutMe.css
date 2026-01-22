@@ -3,12 +3,13 @@
   height: 100vh;
   background-image: url("../background-aboutme.jpg");
   background-size: cover;
-  background-position: center;
+  background-position: left;
   position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
   padding: 40px;
+  font-family: "Inter", sans-serif;
 }
 
 .bio-title {
@@ -28,11 +29,11 @@
 .about-content {
   max-width: 800px;
   color: #ecd2df;
-  text-align: center;
+  text-align: left;
   background: rgba(52, 55, 66, 0.6);
   padding: 30px;
   border-radius: 10px;
-  font-family: Arial, sans-serif;
+  font-family: "Inter", sans-serif;
 }
 
 .about-content h1 {

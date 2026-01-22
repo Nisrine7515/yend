@@ -15,7 +15,7 @@ function Home() {
           </Link>
         </div>
         <Link to="/about" className="subtitle">
-          About Me
+          ABOUT ME
         </Link>
       </div>
 
@@ -64,7 +64,7 @@ function Home() {
       </div>
 
       <div className="bottom-right">
-        <a href="mailto:home@casanyele.com">MAIL</a>
+        <a href="mailto:home@casanyele.com">CONTACT</a>
 
         <a
           href="https://www.instagram.com/yendigba"

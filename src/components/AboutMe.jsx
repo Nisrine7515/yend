@@ -10,7 +10,7 @@ function AboutMe() {
       </Link>
 
       <div className="about-content">
-        <h1 className="bio-title">BIOGRAPHY ŸEND</h1>
+        <h1 className="bio-title">BIOGRAPHY</h1>
 
         <p>
           If we are all a product of our environment, creating allows Ÿend to
@@ -22,7 +22,7 @@ function AboutMe() {
         <p>
           Of Algerian and Guadeloupean origin, she blends her heritage of
           Afro-diasporic with the hip hop and house culture she embraced during
-          her youth in Mulhouse. This fusion took shape in her 2023 EP{" "}
+          her youth in Mulhouse. This fusion took shape in her 2023 EP
           <a
             href="https://fanlink.tv/yekrik"
             target="_blank"
@@ -31,7 +31,6 @@ function AboutMe() {
             YEKRIK
           </a>
         </p>
-
         <p>
           In 2025, she releases{" "}
           <a
