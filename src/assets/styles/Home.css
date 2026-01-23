@@ -143,22 +143,24 @@ a:hover {
   }
 
   a {
-    font-size: 16px;
+    font-size: 15px;
     padding: 8px 14px;
   }
 }
 
 @media (max-width: 480px) {
+  .top-left {
+    align-items: flex-start;
+  }
+
   .title {
-    font-size: 26px;
+    font-size: 32px;
+    text-align: left;
   }
 
   .subtitle {
-    font-size: 18px;
-  }
-
-  a {
-    font-size: 14px;
-    padding: 6px 10px;
+    font-size: 20px;
+    margin-left: 0.35em; /* ajuste ici pour tomber pile sous la barre du Y */
+    text-align: left;
   }
 }
