@@ -149,18 +149,51 @@ a:hover {
 }
 
 @media (max-width: 480px) {
+  /* Structure générale */
+  .container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    padding: 16px;
+  }
+
+  /* Bloc titre (Y / A) */
   .top-left {
     align-items: flex-start;
   }
 
   .title {
-    font-size: 32px;
+    font-size: 26px;
+    line-height: 1;
     text-align: left;
   }
 
   .subtitle {
-    font-size: 20px;
-    margin-left: 0.35em; /* ajuste ici pour tomber pile sous la barre du Y */
+    font-size: 18px;
+    line-height: 1;
+    margin-left: 0.38em;
+    margin-top: 4px;
     text-align: left;
+  }
+
+  /* Liens du haut */
+  .top-right {
+    justify-content: center;
+    margin-top: 12px;
+    font-size: 16px;
+  }
+
+  /* Liens du bas (Contact / Instagram / TikTok) */
+  .bottom-right {
+    margin-top: auto;
+    padding-bottom: 8px;
+    justify-content: center;
+    gap: 14px;
+    font-size: 16px;
+  }
+
+  a {
+    font-size: 14px;
+    padding: 6px 10px;
   }
 }
