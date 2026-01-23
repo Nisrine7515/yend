@@ -192,6 +192,13 @@ a:hover {
     font-size: 16px;
   }
 
+  .top-right a {
+    display: inline-flex;
+    align-items: center;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+
   /* Liens du bas (Contact / Instagram / TikTok) */
   .bottom-right {
     margin-top: auto;
