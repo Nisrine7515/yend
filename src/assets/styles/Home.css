@@ -173,7 +173,7 @@ a:hover {
     line-height: 1;
     margin-left: 0.38em;
     margin-top: 2px;
-    text-align: left;
+    justify-self: end;
   }
 
   /* Liens du haut */
