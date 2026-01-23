@@ -173,6 +173,7 @@ a:hover {
     line-height: 1;
     margin-left: 0.38em;
     margin-top: 2px;
+    grid-column: 2;
     justify-self: end;
   }
 
