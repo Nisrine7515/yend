@@ -53,7 +53,9 @@ function Home() {
         </a>
       </div>
 
-      <div className="bottom-left">
+      <div className="bottom-left"></div>
+
+      <div className="bottom-right">
         <a
           href="https://yendigba.bandcamp.com/"
           target="_blank"
@@ -61,9 +63,6 @@ function Home() {
         >
           SHOP
         </a>
-      </div>
-
-      <div className="bottom-right">
         <a href="mailto:home@casanyele.com">CONTACT</a>
 
         <a
