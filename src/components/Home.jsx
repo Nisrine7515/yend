@@ -57,7 +57,7 @@ function Home() {
 
       <div className="bottom-right">
         <a
-          href="https://yendigba.bandcamp.com/"
+          href="https://yend.bandcamp.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
