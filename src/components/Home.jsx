@@ -29,7 +29,7 @@ function Home() {
         </a>
 
         <a
-          href="https://music.apple.com/fr/artist/yend/1532662538"
+          href="https://music.apple.com/fr/artist/%C3%BFend/1869364524"
           target="_blank"
           rel="noopener noreferrer"
         >
