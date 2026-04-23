@@ -63,7 +63,7 @@ function Home() {
         >
           SHOP
         </a>
-        <a href="mailto:home@casanyele.com">CONTACT</a>
+        <a href="yendmgmt@gmail.com">CONTACT</a>
 
         <a
           href="https://www.instagram.com/yendigba"
@@ -74,7 +74,7 @@ function Home() {
         </a>
 
         <a
-          href="https://www.tiktok.com/@yendigba"
+          href="https://www.tiktok.com/@yendsetter"
           target="_blank"
           rel="noopener noreferrer"
         >
