@@ -13,42 +13,34 @@ function AboutMe() {
         <h1 className="bio-title">BIOGRAPHY</h1>
 
         <p>
-          If we are all a product of our environment, creating allows Ÿend to
-          control all of its parameters. Growing up in a guilt-driven
-          environment, Ÿend turned every offense into a strength, shaping her
-          music to be powerful and audacious.
+          Born in Mulhouse, ŸEND grew up between Alsace and Guadeloupe and
+          developed a strong passion for theatre from an early age, beginning
+          her training at nine years old.
         </p>
 
         <p>
-          Of Algerian and Guadeloupean origin, she blends her heritage of
-          Afro-diasporic with the hip hop and house culture she embraced during
-          her youth in Mulhouse. This fusion took shape in her 2023 EP
-          <a
-            href="https://fanlink.tv/yekrik"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            YEKRIK
-          </a>
+          Since 2020, she has released 18 tracks in which diasporic memories and
+          emotional wounds are rendered through a narrative thread that aspires
+          to be cinematic. This is evident in her singles 'barbès' and more
+          recently 'noire' (playlisted under "Lyricistes" by Spotify).
         </p>
         <p>
-          In 2025, she releases{" "}
-          <a
-            href="https://baco.lnk.to/SingleBARBES"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            barbès
-          </a>
-          and
-          <a
-            href="https://baco.lnk.to/attention"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            attention,
-          </a>
-          hinting at the arrival of an EP in early 2026.
+          Her powerful connection to live performance earned her the Buzz
+          Booster Grand-Est 2024 and Rappeuses en Liberté 2024 awards. Ÿend has
+          performed over 55 dates across Europe, including MaMA, MIL Festival,
+          Les Ardentes and Europavox, as well as opening slots for Aupinard,
+          Chilla and Jay Prince.{" "}
+        </p>
+        <p>
+          In 2025, she collaborated on La Haine with Angolan composer NegoO as
+          part of the collection Moonshine SMS Vol. 6.5.{" "}
+        </p>
+        <p>
+          With 'la dame du fond', her new EP, she opens her first narrative
+          cycle: nine tracks offering an alchemical journey that lays the
+          foundations of a francophone BLK ODYSSEY. A screenwriter for Bandi
+          (Netflix), she is also developing casa nyelë, a structure conceived as
+          a home for clarity, creation and event production.
         </p>
 
         <a
