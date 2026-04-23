@@ -66,7 +66,7 @@ function Home() {
         <a href="yendmgmt@gmail.com">CONTACT</a>
 
         <a
-          href="https://www.instagram.com/yendigba"
+          href="https://www.instagram.com/yendsetter/"
           target="_blank"
           rel="noopener noreferrer"
         >
