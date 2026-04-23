@@ -1,6 +1,6 @@
 .about-me {
   width: 100vw;
-  height: 100vh;
+  min-height: 100dvh;
   background-image: url("../background-aboutme.jpeg");
   background-size: cover;
   background-position: left;
@@ -27,13 +27,14 @@
 }
 
 .about-content {
-  max-width: 800px;
+  max-width: 700px;
   color: #ecd2df;
   text-align: left;
   background: rgba(52, 55, 66, 0.6);
   padding: 30px;
   border-radius: 10px;
   font-family: "Inter", sans-serif;
+  box-sizing: border-box;
 }
 
 .about-content h1 {
